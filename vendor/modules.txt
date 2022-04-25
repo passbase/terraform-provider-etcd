@@ -219,7 +219,7 @@ github.com/zclconf/go-cty/cty/function/stdlib
 github.com/zclconf/go-cty/cty/gocty
 github.com/zclconf/go-cty/cty/json
 github.com/zclconf/go-cty/cty/set
-# go.etcd.io/etcd/api/v3 v3.5.0
+# go.etcd.io/etcd/api/v3 v3.5.4
 ## explicit
 go.etcd.io/etcd/api/v3/authpb
 go.etcd.io/etcd/api/v3/etcdserverpb
